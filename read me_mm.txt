@@ -1,6 +1,3 @@
-# DRUS_novi
-Projekat DRUS
-# DRUS
 1.U projektu MeasureService nalazi se sql skripta: Model1.edmx.sql.
 Potrebno je nju pokrenuti da bi se kreirala baza podataka.
 (u txt fajlu skripta_sql.txt se nalazi ista skripta,moze se i ona pokrenuti)
